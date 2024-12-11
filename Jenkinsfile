@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        GIT_REPO = 'https://github.com/your-username/your-repository.git'
+        GIT_REPO = 'https://github.com/SisAdminNsk/PyFlask.git'
         BRANCH_NAME = 'main'  // Убедитесь, что указана правильная ветка
     }
 
